@@ -43,9 +43,8 @@ Soy Ingeniero en Sistemas y actualmente estoy cursando una maestría en Intelige
 
 ## Contacto
 
-- **Email**: [tu-email@example.com](mailto:tu-email@example.com)
-- **LinkedIn**: [linkedin.com/in/tu-perfil](https://www.linkedin.com/in/tu-perfil)
-- **Twitter**: [@tu_usuario](https://twitter.com/tu_usuario)
+- **Email**: garciajpgf@gmail.com
+- **LinkedIn**: https://www.linkedin.com/in/jean-pierre-garc%C3%ADa-baa68594/
 
 ---
 
